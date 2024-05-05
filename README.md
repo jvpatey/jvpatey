@@ -1,5 +1,3 @@
-![Navy Electronic Technology Twitter Header](https://github.com/jvpatey/jvpatey/assets/160293578/20ba048a-c48f-4e1d-8cdc-268437172018)
-
 # 👋 Hi, I'm Jeffrey Patey (@jvpatey)
 
 - 🌱 I'm currently a software development student at Get Coding in Halifax, Nova Scotia.
