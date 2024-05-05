@@ -10,10 +10,9 @@
 ## How to Reach Me
 - 📫 You can reach me via:
   - 📧 jeffreyvpatey@gmail.com
-  - <a title="LinkedIn, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg"><img width="15" alt="LinkedIn icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png"></a> [LinkedIn](www.linkedin.com/in/jeffrey-patey-3ba715220)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,git,figma,vscode&theme=dark)](https://skillicons.dev)
 
 ## Current Goals
 - 📖 Completing Module 1 and moving on to more advanced topics in web development.
