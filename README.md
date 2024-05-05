@@ -8,7 +8,9 @@
 - ✨ I'm excited to continue learning and developing my skills as a software developer.
 
 ## How to Reach Me
-- 📫 You can reach me via [email](mailto:jeffreyvpatey@gmail.com) or on [LinkedIn](www.linkedin.com/in/jeffrey-patey-3ba715220).
+- 📫 You can reach me via:
+  - 📧 jeffreyvpatey@gmail.com
+  - <a title="LinkedIn, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg"><img width="15" alt="LinkedIn icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/64px-LinkedIn_icon.svg.png"></a> [LinkedIn](www.linkedin.com/in/jeffrey-patey-3ba715220)
 
 ## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,figma&theme=dark)](https://skillicons.dev)
