@@ -16,6 +16,5 @@
 ## Current Goals
 - 📖 Completing Module 1 and moving on to more advanced topics in web development.
 - 🚀 Developing more projects to build my portfolio and gain experience.
-- 🤝 Collaborating with other developers and contributing to open-source projects.
 
 Thanks for stopping by! Feel free to connect with me or reach out!
