@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeffrey Patey (@jvpatey)
+# 👋 Hi, I'm Jeff Patey (@jvpatey)
 
 - 🌱 I'm currently a software development student at Get Coding in Halifax, Nova Scotia.
 - 🎓 Currently completing Module 1 with focus on HTML, JavaScript, and CSS.
