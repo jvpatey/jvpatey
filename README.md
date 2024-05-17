@@ -10,12 +10,17 @@
 ## How to Reach Me
 - 📫 You can reach me via:
   - 📧 jeffreyvpatey@gmail.com
-
-## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,git,figma,vscode&theme=dark)](https://skillicons.dev)
-
+ 
 ## Current Goals
 - 📖 Completing Module 1 and moving on to more advanced topics in web development.
 - 🚀 Developing more projects to build my portfolio and gain experience.
 
 Thanks for stopping by! Feel free to connect with me or reach out!
+
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,git,figma,vscode&theme=dark)](https://skillicons.dev)
+
+## Stats
+![Jeffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpatey&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpatey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
