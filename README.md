@@ -6,7 +6,7 @@
 
 ## Projects
 - 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) - a home maintenance notification web application that utilizes Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
-- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) - an oral health assessment and habit tracker application built with React; front-end complete and back-end in development.
+- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) - a full-stack oral health assessment and habit tracker app built with React (front end) and Express (back end); both front-end and back-end are fully implemented.
 
 
 ## How to Reach Me
@@ -15,7 +15,6 @@
  
 ## Current Goals
 - 📖 Continuing to enhance my skills in full-stack development through the Get Building Program.
-- 🚀 Developing the backend for OralCheckr to manage user responses, analytics, and habit tracking efficiently.
 - 🛠️ Building more projects to diversify my portfolio and gain hands-on experience with new technologies.
 - 🌱 Exploring new coding frameworks, libraries, and databases to expand my tech stack and improve project performance.
 
