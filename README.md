@@ -1,28 +1,27 @@
 # 👋 Hi, I'm Jeff Patey (@jvpatey)
 
-- 🌱 I'm currently a software development student at Get Building in Halifax, Nova Scotia.
-- 💻 I'm learning to become a full-stack developer.
-- ✨ I'm excited to continue learning and developing my skills as a software developer.
+- 🎓 I've completed the Get Building Software Development Program in Halifax, Nova Scotia.
+- 💻 I'm a full-stack developer passionate about building responsive, user-focused applications.
+- ✨ I'm committed to continuous learning and excited to grow through hands-on projects and new technologies.
 
 ## Projects
-- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) - a home maintenance notification web application that utilizes Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
-- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) - a full-stack oral health assessment and habit tracker app built with React (front end) and Express (back end); both front-end and back-end are fully implemented.
-
+- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
+- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).
 
 ## How to Reach Me
-- 📫 You can reach me via:
+- 📫 Contact me at:
   - 📧 jeffreyvpatey@gmail.com
- 
+
 ## Current Goals
-- 📖 Continuing to enhance my skills in full-stack development through the Get Building Program.
-- 🛠️ Building more projects to diversify my portfolio and gain hands-on experience with new technologies.
-- 🌱 Exploring new coding frameworks, libraries, and databases to expand my tech stack and improve project performance.
+- 🛠️ Building new full-stack projects to diversify my portfolio and gain deeper hands-on experience.
+- 🌱 Exploring modern frameworks, libraries, and databases to expand my tech stack and improve performance.
+- 📚 Continuing to grow as a developer through independent study and real-world applications.
 
-Thanks for stopping by! Feel free to connect with me or reach out!
+Thanks for stopping by! Feel free to connect or reach out.
 
-## Languages and Tools
+## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,vite,firebase,styledcomponents,tailwind,bootstrap,git,figma,vscode&theme=dark)](https://skillicons.dev)
 
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpatey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Jeffs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpatey&show_icons=true&theme=tokyonight)
+## Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpatey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpatey&show_icons=true&theme=tokyonight)
