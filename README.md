@@ -5,8 +5,13 @@
 - ✨ I'm committed to continuous learning and excited to grow through hands-on projects and new technologies.
 
 ## Projects
+
+### 📂 Previous Projects
 - 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
 - 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).
+
+### 🚧 Currently Building
+- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity, built for developers who think in tasks, code, and connected ideas. Inspired by Notion, Trello, and Slack Canvas — but designed specifically for developers.
 
 ## How to Reach Me
 - 📫 Contact me at:
@@ -20,7 +25,7 @@
 Thanks for stopping by! Feel free to connect or reach out.
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,vite,firebase,styledcomponents,tailwind,bootstrap,git,figma,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,vite,firebase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma&theme=dark)](https://skillicons.dev)
 
 ## Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpatey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
