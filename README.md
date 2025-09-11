@@ -12,6 +12,7 @@
 
 ### 🚧 Currently Building
 - 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity, built for developers who think in tasks, code, and connected ideas. Inspired by Notion, Trello, and Slack Canvas — but designed specifically for developers.
+- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – A React Native (Expo + TypeScript) app with Supabase authentication and a full home maintenance task manager. Features include recurring tasks, notifications, stats, and a modern UI/UX — currently being deployed to the iOS App Store.
 
 ## How to Reach Me
 - 📫 Contact me at:
