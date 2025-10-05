@@ -9,10 +9,10 @@
 ### 📂 Previous Projects
 - 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
 - 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).
+- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – A React Native (Expo + TypeScript) app with Supabase authentication and a full home maintenance task manager. Features include recurring tasks, notifications, stats, and a modern UI/UX — deployed to the [**App Store**](homekeep-website.vercel.app)
 
 ### 🚧 Currently Building
 - 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity, built for developers who think in tasks, code, and connected ideas. Inspired by Notion, Trello, and Slack Canvas — but designed specifically for developers.
-- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – A React Native (Expo + TypeScript) app with Supabase authentication and a full home maintenance task manager. Features include recurring tasks, notifications, stats, and a modern UI/UX — currently being deployed to the iOS App Store.
 
 ## How to Reach Me
 - 📫 Contact me at:
