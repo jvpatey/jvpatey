@@ -7,12 +7,13 @@
 ## Projects
 
 ### 📂 Previous Projects
-- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.
-- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).
-- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – I reimagined a previous project - HomeKeep, as a fully native mobile experience. Built with React Native (Expo + TypeScript) and Supabase, it helps users manage and track recurring home maintenance tasks with notifications, stats, and a clean, accessible design — now available on the [**App Store**](homekeep-website.vercel.app)
+- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality.  
+- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).  
 
 ### 🚧 Currently Building
-- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity, built for developers who think in tasks, code, and connected ideas. Inspired by Notion, Trello, and Slack Canvas — but designed specifically for developers.
+- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – A fully native mobile version of HomeKeep, built with React Native (Expo + TypeScript) and Supabase. It helps users manage and track recurring home maintenance tasks with notifications, stats, and a clean, accessible design — now available on the [**App Store**](https://homekeep-website.vercel.app). I’m continually adding new features and improvements.  
+- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity — inspired by Notion, Trello, and Slack Canvas, and designed specifically for developers. It’s a longer-term project I plan to revisit as I continue expanding HomeKeep.  
+
 
 ## How to Reach Me
 - 📫 Contact me at:
