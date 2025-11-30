@@ -30,4 +30,4 @@
 Thanks for stopping by! Feel free to connect or reach out.
 
 ## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,vite,firebase,supabase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,swift,vite,firebase,supabase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma&theme=dark)](https://skillicons.dev)
