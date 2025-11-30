@@ -31,7 +31,3 @@ Thanks for stopping by! Feel free to connect or reach out.
 
 ## Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,vite,firebase,supabase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma&theme=dark)](https://skillicons.dev)
-
-## Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpatey&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpatey&show_icons=true&theme=tokyonight)
