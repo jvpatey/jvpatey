@@ -1,33 +1,28 @@
-# 👋 Hi, I'm Jeff Patey (@jvpatey)
+# 👋 Hi, I'm Jeff Patey (@jvpatey) – Full-Stack Developer
 
-- 🎓 I've completed the Get Building Software Development Program in Halifax, Nova Scotia.
-- 💻 I'm a full-stack developer passionate about building responsive, user-focused applications.
-- ✨ I'm committed to continuous learning and excited to grow through hands-on projects and new technologies.
+[![Portfolio](https://img.shields.io/badge/Portfolio-jeffreypatey.dev-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://www.jeffreypatey.dev/)
+
+- 🌟 **Currently consulting at ThinkRad** (Halifax, NS) on iOS apps like Aura using Swift, SwiftUI, CloudKit, and Xcode.
+- 🎓 Completed Get Building Software Development Program in Halifax, Nova Scotia.
+- 💻 Building responsive web/mobile apps with React, Next.js, SwiftUI, TypeScript, Node.js, and more—passionate about clean code and user-focused design.
+- ✨ Open to full-stack opportunities; committed to continuous learning.
 
 ## Projects
 
 ### 🚧 Currently Building
-- 🌟 [**Aura**](https://github.com/ThinkRad/Aura) – A writing app being developed in collaboration with ThinkRad. Built with SwiftUI for macOS and iOS, Aura uses iCloud to keep your notes in sync across devices. It supports text editing, tags, images, and notes deletion. Full rich text editing coming soon.
-- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – An all-in-one workspace for dev notes, tasks, and clarity — inspired by Notion, Trello, and Slack Canvas, and designed specifically for developers.
-  
-- 📱 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – A fully native mobile version of HomeKeep, built with React Native (Expo + TypeScript) and Supabase. It helps users manage and track recurring home maintenance tasks with notifications, stats, and a clean, accessible design — now available on the [**App Store**](https://homekeep-website.vercel.app). I'm continually adding new features and improvements.  
+- 🌟 **Aura** – Writing app (macOS/iOS) with SwiftUI, iCloud sync, rich text, tags, images. Collaborating with ThinkRad—full features incoming.
+- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – Full-stack dev workspace for notes, tasks, and code snippets, real-time sync, search, and dark mode (React, Next.js 15, Prisma, Supabase).
+
+### 📱 Shipped on App Store
+- [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – React Native/Expo + Supabase for home maintenance tracking with notifications/stats. [Live](https://homekeep-website.vercel.app).
 
 ### 📂 Previous Projects
-- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – A home maintenance notification web app utilizing Firebase and Firestore for storage, authentication, notifications, and backend-like functionality. 
+- 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – Web app with Firebase/Firestore.
+- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – React/Express oral health tracker.
 
-- 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – A full-stack oral health assessment and habit tracker app built with React (frontend) and Express (backend).
+## Reach Me
+- 📧 jeffreyvpatey@gmail.com
 
+Thanks for visiting!
 
-## How to Reach Me
-- 📫 Contact me at:
-  - 📧 jeffreyvpatey@gmail.com
-
-## Current Goals
-- 🛠️ Building new full-stack projects to diversify my portfolio and gain deeper hands-on experience.
-- 🌱 Exploring modern frameworks, libraries, and databases to expand my tech stack and improve performance.
-- 📚 Continuing to grow as a developer through independent study and real-world applications.
-
-Thanks for stopping by! Feel free to connect or reach out.
-
-## Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,swift,vite,firebase,supabase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,express,nodejs,postman,javascript,typescript,swift,swiftui,xcode,vite,firebase,supabase,styledcomponents,tailwind,bootstrap,git,vscode,vercel,nextjs,prisma,reactnative&theme=dark)](https://skillicons.dev)
