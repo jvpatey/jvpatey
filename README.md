@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeffreypatey.dev-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://www.jeffreypatey.dev/)
 
-- 🌟 **Currently consulting at ThinkRad** (Halifax, NS) on iOS apps like Aura using Swift, SwiftUI, CloudKit, and Xcode.
+- 🌟 **Currently consulting at ThinkRad** (Halifax, NS) on iOS apps using Swift, SwiftUI, CloudKit, and Xcode.
 - 🎓 Completed Get Building Software Development Program in Halifax, Nova Scotia.
 - 💻 Building responsive web/mobile apps with React, Next.js, SwiftUI, TypeScript, Node.js, and more—passionate about clean code and user-focused design.
 - ✨ Open to full-stack opportunities; committed to continuous learning.
@@ -10,13 +10,13 @@
 ## Projects
 
 ### 🚧 Currently Building
-- 🌟 **Aura** – Writing app (macOS/iOS) with SwiftUI, iCloud sync, rich text, tags, images. Collaborating with ThinkRad—full features incoming.
-- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – Full-stack dev workspace for notes, tasks, and code snippets, real-time sync, search, and dark mode (React, Next.js 15, Prisma, Supabase).
+- 🦷 [**Chairside**](https://github.com/jvpatey/chairside) – Mobile-first dental staffing app for Nova Scotia clinics and professionals—born from a real hiring pain point: filling permanent roles and last-minute chairside shifts. Structured profiles, availability matching, and explainable fit scoring (React Native, Expo, TypeScript, Supabase).
 
 ### 📱 Shipped on App Store
 - [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – React Native/Expo + Supabase for home maintenance tracking with notifications/stats. [Live](https://homekeep-website.vercel.app).
 
 ### 📂 Previous Projects
+- 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – Full-stack dev workspace for notes, tasks, and code snippets, real-time sync, search, and dark mode (React, Next.js 15, Prisma, Supabase). [Live](https://streamln.vercel.app/)
 - 🏠 [**HomeKeep**](https://github.com/jvpatey/HomeKeep) – Web app with Firebase/Firestore.
 - 🦷 [**OralCheckr**](https://github.com/jvpatey/OralCheckr) – React/Express oral health tracker.
 
