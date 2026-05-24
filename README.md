@@ -13,7 +13,7 @@
 - 🦷 [**Chairside**](https://github.com/jvpatey/chairside) – Mobile-first dental staffing app for Nova Scotia clinics and professionals—born from a real hiring pain point: filling permanent roles and last-minute chairside shifts. Structured profiles, availability matching, and explainable fit scoring (React Native, Expo, TypeScript, Supabase).
 
 ### 📱 Shipped on App Store
-- [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – React Native/Expo + Supabase for home maintenance tracking with notifications/stats. [Live](https://homekeep-website.vercel.app).
+- 🏠 [**HomeKeep Mobile**](https://github.com/jvpatey/homekeep-mobile) – React Native/Expo + Supabase for home maintenance tracking with notifications/stats. [Live](https://homekeep-website.vercel.app).
 
 ### 📂 Previous Projects
 - 🚀 [**StreamLn**](https://github.com/jvpatey/StreamLn) – Full-stack dev workspace for notes, tasks, and code snippets, real-time sync, search, and dark mode (React, Next.js 15, Prisma, Supabase). [Live](https://streamln.vercel.app/)
